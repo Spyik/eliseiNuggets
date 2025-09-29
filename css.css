@@ -1,5 +1,5 @@
 .container{
-    width: 600px;
+   max-width: 600px;
     margin: 20px auto;
 }
 
@@ -37,5 +37,6 @@ h1,h2{
 .hidden{
     display: none;
     transition: 0.5s;
+
 
 }
